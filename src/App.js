@@ -5,7 +5,7 @@ import Result from './Components/Result';
 
 function App() {
   return (
-    <div className='max-w-[1240px] mx-auto mt-2 p-3 shadow-xl'>
+    <div className='max-w-[1240px] mx-auto mt-2 p-3'>
       <Search/>
       <Result/>
     </div>
